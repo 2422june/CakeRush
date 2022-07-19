@@ -7,7 +7,6 @@ Result/[Oo]bj/
 Result/[Bb]uild/
 Result/[Bb]uilds/
 Result/[Ll]ogs/
-Result/[Cc]akeRush_Data/
 Result/[Uu]ser[Ss]ettings]/
 [Ll]ibrary/
 [Tt]emp/
@@ -16,7 +15,6 @@ Result/[Uu]ser[Ss]ettings]/
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-[Cc]akeRush_Data/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
