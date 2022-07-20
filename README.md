@@ -1,5 +1,5 @@
 ### [CakeRush-GitHub.io](https://yong-gyun.github.io/Cake-Rush/)
-### [Download](https://drive.google.com/file/d/1CgcdwKtPaiLw5mhI233LPSymXzl-87fr/view?usp=sharing))
+### [Download](https://drive.google.com/file/d/1CgcdwKtPaiLw5mhI233LPSymXzl-87fr/view?usp=sharing)
 --------
 ### [게임 제목] ###
 > **Cake Rush**
